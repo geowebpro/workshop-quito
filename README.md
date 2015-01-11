@@ -1,4 +1,4 @@
-#Análisis espacial usando Python y librerías open source
+#Análisis geoespacial usando Python y librerías _open source_
 
 _20-22 de agosto de 2015_
 _Quito, ECUADOR_
